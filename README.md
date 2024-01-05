@@ -83,7 +83,4 @@ Siga os comandos a seguir:
     └── views
         ├── __init__.py
         └── test_board_view.py
-
-
-
 ```
